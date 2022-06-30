@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c $CFILE -o third_file.s
+gcc -S $CFILE
