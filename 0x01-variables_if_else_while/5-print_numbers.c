@@ -8,11 +8,10 @@
 int main(void)
 {
 int i;
-int count;
 for (i = 0; i <= 9; i++)
 {
-count = count + i;
+printf("%d", i);
 }
-printf("%c\n", count);
+printf("\n");
 return (0);
 }
