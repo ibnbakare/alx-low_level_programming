@@ -11,7 +11,11 @@ int i;
 int count;
 for (i = 0; i <= 9; i++)
 {
+<<<<<<< HEAD
 count = count + i;
+=======
+printf("%d\n", i);
+>>>>>>> 47dfc6e40924e53f28f6816af22349c3a34d7f92
 }
 printf("count\n");
 return (0);
