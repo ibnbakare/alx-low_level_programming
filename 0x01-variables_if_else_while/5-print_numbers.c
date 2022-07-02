@@ -13,6 +13,6 @@ for (i = 0; i <= 9; i++)
 {
 count = count + i;
 }
-printf("%d\n", count);
+printf("%c\n", count);
 return (0);
 }
