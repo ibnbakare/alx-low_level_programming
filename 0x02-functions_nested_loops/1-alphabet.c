@@ -5,12 +5,12 @@
  *Return: Always 0 (Success)
  */
 
-void print_alphabet(void);
+void print_alphabet(void)
 {
 int ch;
 for(ch = 97; ch <= 122; ch++)
 {
-    _putchar(ch);
-    _putchar(20);
+_putchar(ch);
+_putchar(20);
 }
 }
