@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- *print alphabelt -->print lowercase alphabelts
- *and print the last digit of the number stored in the variable n
- *Return: Always 0 (Success)
- */
+ *
+ * * print_alphabet -> prints the lowercase alphabets
+ *
+ * */
 
 void print_alphabet(void)
 {
@@ -11,6 +11,7 @@ int ch;
 for (ch = 'a'; ch <= 'z'; ch++)
 {
 _putchar(ch);
+i**
 }
-_putchar(32);
+_putchar('\n');
 }
