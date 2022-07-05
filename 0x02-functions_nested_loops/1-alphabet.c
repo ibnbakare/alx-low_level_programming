@@ -13,5 +13,4 @@ for(ch = 97; ch <= 122; ch++)
 _putchar(ch);
 }
 _putchar(20);
-return (0);
 }
