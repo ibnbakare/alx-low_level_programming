@@ -8,7 +8,7 @@ int i;
 int j;
 for (i = 0; i < 10; i++)
 {
-for (j = 'a'; ch <= 'z'; i++)
+for (j = 'a'; j <= 'z'; j++)
 {
 _putchar(j);
 }
