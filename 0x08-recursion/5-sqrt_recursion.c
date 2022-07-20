@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 
 int _sqrt(int, int);
