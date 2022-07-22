@@ -7,4 +7,5 @@ int _pow_recursion(int x, int y);
 int _sqrt_recursion(int n);
 int check_prime(int n, int i);
 int check_pal(char *s, int i, int len);
-char *move(char *s2);
+int bandersnatch(char *s1, char *s2);
+char *move(char *s2)
