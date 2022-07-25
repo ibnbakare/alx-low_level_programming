@@ -1,0 +1,1 @@
+This folder shows my work with allocated memory
