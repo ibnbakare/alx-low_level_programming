@@ -4,7 +4,7 @@
  * was compiled from with a new line
  * Return: 0.
  */
-void main(void)
+ int main(void)
 {
 	printf("%s\n", __FILE__);
 
