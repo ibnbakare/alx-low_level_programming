@@ -15,5 +15,10 @@ if (cmp(array[i]))
 return (i);
 
 }
+
 return (-1);
+if (size <= 0)
+{
+return (-1);
+}
 }
