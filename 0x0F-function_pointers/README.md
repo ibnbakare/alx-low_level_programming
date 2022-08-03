@@ -1,0 +1,1 @@
+This dir shows my work with pointer functions.
