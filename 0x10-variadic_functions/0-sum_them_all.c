@@ -3,11 +3,12 @@
 *sum_them_all - returns the sum of all its parameters.
 *@n:number of arugument
 *
-*return-int
+*sum of its parameters.
 */
 int sum_them_all(const unsigned int n, ...)
 {
 	va_list args;
+
 	if (n == 0)
 
 
@@ -23,6 +24,7 @@ int sum_them_all(const unsigned int n, ...)
 	{
 
 		int x = va_arg(args, int);
+
 		sum = sum + x;
 
 	}
