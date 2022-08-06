@@ -2,8 +2,8 @@
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ibnbakare&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrRandomGenerator&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRandomGenerator&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ibnbakare&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnbakare&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 - 0x00-hello_world is a project introducing us to the C programming language
 - 0x01-if_else_while is a project that opens us up to loops.
 - 0x02-functions_nested_loops is a projsect that introduces us to nested loops
