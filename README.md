@@ -1,5 +1,5 @@
 # This directory is to show case my journey  with C programming. 
-
+=====================================================
 - 0x00-hello_world is a project introducing us to the C programming language
 - 0x01-if_else_while is a project that opens us up to loops.
 - 0x02-functions_nested_loops is a projsect that introduces us to nested loops
